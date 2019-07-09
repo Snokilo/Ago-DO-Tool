@@ -1,0 +1,19 @@
+{
+  "name": "ago-do-tool",
+  "version": "3.0.0",
+  "description": "Set of tool created for arago system\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dused to communicate with digitalocean created for arago system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snokilo/Ago-DO-Tool.git"
+  },
+  "author": "Snokilo.net",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Snokilo/Ago-DO-Tool/issues"
+  },
+  "homepage": "https://github.com/Snokilo/Ago-DO-Tool#readme"
+}
