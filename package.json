@@ -1,7 +1,7 @@
 {
   "name": "ago-do-tool",
-  "version": "3.0.0",
-  "description": "Set of tool created for arago system\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dused to communicate with digitalocean created for arago system",
+  "version": "3.0.1",
+  "description": "Set of tool created for arago system, they are used to communicate with digitalocean",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
